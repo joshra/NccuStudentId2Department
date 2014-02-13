@@ -3,7 +3,7 @@
 
   "name": "政大學號反查器",
   "description": "查院系超方便",
-  "version": "1.0",
+  "version": "1.2",
 
   "browser_action": {
     "default_icon": "icon.png",
